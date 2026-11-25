@@ -1,8 +1,8 @@
 # Jarvis-voice-assistant
 Python voice assistant that listens, speaks, searches Wikipedia and opens websites. 
-# Jarvis - Python Voice Assistant
 
-A voice-controlled desktop assistant built with Python. It listens to your commands and replies with speech.
+
+
 
 ## Features
 - Speaks and listens using voice commands
